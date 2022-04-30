@@ -1,0 +1,8 @@
+D:/Training Files/calculator/build/windows/runner/Debug/data/icudtl.dat
+D:/Training Files/calculator/build/windows/runner/Debug/flutter_windows.dll
+D:/Training Files/calculator/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Training Files/calculator/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Training Files/calculator/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Training Files/calculator/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Training Files/calculator/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Training Files/calculator/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
